@@ -15,5 +15,4 @@ Linear algebra
 
    linear_algebra/diagflat.rst
    linear_algebra/kron.rst
-   linear_algebra/matrix_exp.rst
 

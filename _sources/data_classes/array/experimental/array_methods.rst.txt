@@ -41,7 +41,6 @@ Array methods
    array_methods/dct.rst
    array_methods/diagflat.rst
    array_methods/kron.rst
-   array_methods/matrix_exp.rst
    array_methods/moveaxis.rst
    array_methods/heaviside.rst
    array_methods/flipud.rst
