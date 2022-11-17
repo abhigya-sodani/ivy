@@ -79,6 +79,8 @@ Container methods
    container_methods/diagflat.rst
    container_methods/static_kron.rst
    container_methods/kron.rst
+   container_methods/static_matrix_exp.rst
+   container_methods/matrix_exp.rst
    container_methods/static_moveaxis.rst
    container_methods/moveaxis.rst
    container_methods/static_heaviside.rst
